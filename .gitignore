@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Vector store (rebuilt via src/embed_store.py)
+chroma_db/
+
+# Processed data (intermediate)
+data/processed/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
