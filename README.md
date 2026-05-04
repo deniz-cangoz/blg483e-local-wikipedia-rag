@@ -6,6 +6,10 @@ external LLM API.
 
 **Stack:** Python · Ollama (`llama3.2:3b` + `nomic-embed-text`) · ChromaDB · Streamlit
 
+## Demo Video
+
+[Watch the 5-minute demo on Google Drive](https://drive.google.com/file/d/1QWClECMJNjs4J3TJ2qRAEFp5tRHcZpJc/view?usp=sharing)
+
 ## 1. Prerequisites
 
 - Python 3.11+ (`py --version`)
